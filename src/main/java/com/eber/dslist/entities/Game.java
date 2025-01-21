@@ -1,4 +1,4 @@
-package com.eber.dslist.entidades;
+package com.eber.dslist.entities;
 
 import java.util.Objects;
 
